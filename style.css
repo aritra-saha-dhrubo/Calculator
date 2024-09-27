@@ -1,0 +1,43 @@
+body{
+    overflow-y: hidden;
+    display: grid;
+    place-items:center;
+}
+.calbody{
+    height: 930px;
+    width: 550px;
+    background-color: black;
+    border-radius: 60px;
+    text-align: center;
+    color: aliceblue;
+}
+.result{
+    height: 200px;
+    width: 525px;
+    background-color: gray;
+    margin-left: 13px;
+    border-radius: 60px;
+    margin-top: 10px;
+}
+
+.orange{
+    background-color:orange;
+}
+.btn{
+    width: 100px;
+    height: 100px;
+    align-content: center;
+    border-radius: 50%;
+    margin-top: 1em;
+}
+table{
+    display: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.long{
+    width: 200px;
+    border-radius: 60px;
+}
+
